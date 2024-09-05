@@ -7,6 +7,6 @@ instalar dependencias
 ejecutar script
 
 ```
-    node ./srccerfificate.js
+    node ./src/cerfificate.js
 ```
 # certificateGenerate
